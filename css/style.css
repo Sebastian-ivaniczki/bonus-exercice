@@ -1,0 +1,19 @@
+.target{
+
+    width: 100px;
+    height: 100px;
+    margin-right: 2rem;
+    margin-bottom: 2rem;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.even{
+    background-color: greenyellow;
+}
+
+.shots{
+    background-color: red;
+}
